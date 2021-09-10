@@ -48,21 +48,21 @@ paginate = 20
 [languages]
   [languages.es]
     languageName = "Spanish"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "OS-UC | BLOG"
+    subtitle = "El blog de Open Source UC"
     owner = ""
     keywords = ""
     copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more rolf"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    menuMore = "Ver más"
+    readMore = "Leer más"
+    readOtherPosts = "Leer otros posts"
+    newerPosts = "Posts más nuevos"
+    olderPosts = "Posts más antiguos"
+    missingContentMessage = "No se ha encontrado la página..."
+    missingBackButtonLabel = "Volver a la página principal"
 
     [languages.es.params.logo]
-      logoText = "Terminal"
+      logoText = "Open Source UC"
       logoHomeLink = "/"
 
     [languages.es.menu]
