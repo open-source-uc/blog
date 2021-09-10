@@ -48,7 +48,7 @@ paginate = 20
 [languages]
   [languages.es]
     languageName = "Spanish"
-    title = "OS-UC | BLOG"
+    title = "OSUC | BLOG"
     subtitle = "El blog de Open Source UC"
     owner = ""
     keywords = ""
